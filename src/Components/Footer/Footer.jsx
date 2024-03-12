@@ -76,13 +76,13 @@ export default function Footer() {
                   fontWeight={"700"}
                   fontSize={"15px"}
                 >
-                  Ranipokhar Rd, Bishunpur Udho Urf Dumri, Bihar - 844113
+                  Address
                 </Typography>
                 <Typography color={"white"} fontSize={"14px"}>
-                info@helpprojectfoundation.org
+                
                 </Typography>
                 <Typography color={"white"} fontSize={"14px"}>
-                +91-7321003465, +91-9801350949
+                phone numbers
                 </Typography>
               </Box>
               <Box
@@ -224,18 +224,18 @@ export default function Footer() {
               gap={"10px"}
               flexDirection={"column"}
             >
-              <Typography fontSize={"13px"}>info@helpprojectfoundation.org</Typography>
-              <Typography fontSize={"13px"}>+91-7321003465, +91-9801350949</Typography>
+              <Typography fontSize={"13px"}>email</Typography>
+              <Typography fontSize={"13px"}>contact</Typography>
             </Box>
             <Box textAlign={"center"}>
               <Typography fontWeight={"bold"} color={"gray"}>
-              Ranipokhar Rd, Bishunpur Udho Urf Dumri, Bihar - 844113
+              address
               </Typography>
             </Box>
           </Box>
           <Box marginTop={"30px"} textAlign={"center"}>
             <Typography color={"gray"} fontSize={"13px"}>
-            Copyright @{new Date().getFullYear()} by HELP (Health and Education for Life Project) Foundation
+            Copyright @{new Date().getFullYear()} by Nirman
             </Typography>
           </Box>
         </Box>

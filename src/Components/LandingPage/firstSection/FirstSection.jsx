@@ -36,7 +36,7 @@ export default function FirstSection() {
                                 Nirman
                                 </Typography>
                                 <Typography sx={{ fontSize: "14px", color: "white", fontWeight: "800", fontFamily: "Roboto, sans-serif" }}>
-                                Your donation providing life changing education for children from rural villages. HELP (Health and Education for Life Project) foundation is a non-profit section-8 organisation. We need your support.                                </Typography>s
+                                Your donation providing life changing education for children from rural villages. Nirman is a non-profit section-8 organisation. We need your support.                                </Typography>s
                                 <NavLink to={"/Projects"} style={{ textDecoration: "none",width: "210px" }}>
                                     <Button variant="text" style={{ fontFamily: 'Roboto, sans-serif', fontSize: "20px", width: "210px", height: "68px", background: "red", color: "white", borderRadius: "10px", fontWeight: "800" }}>Start Donation</Button>
                                 </NavLink>
