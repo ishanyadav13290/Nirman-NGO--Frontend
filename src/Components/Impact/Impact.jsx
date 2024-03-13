@@ -33,32 +33,27 @@ export default function Impact() {
         alignContent={"flex-start"}
       >
         <Typography variant="h4" fontWeight={700}>
-          <em>Creating Lasting Change, One Life at a Time</em>
+          <em>Empowering Youth and Communities: Nirman's Impact</em>
           <br />
         </Typography>
         <Typography
           fontWeight={"bold"}
           fontFamily={'"Roboto","Helvetica","Arial",sans-serif'}
         >
-          At Nirman, our goal is to make a meaningful impact on the
-          lives of young people around the world. Through our training programs
-          in data science and blockchain technology, we aim to equip young
-          people with the skills they need to succeed in the digital economy,
-          and to create positive change in their communities and beyond. Our
-          impact can be seen in the success stories of the young people we have
-          trained. We have seen our graduates go on to secure meaningful
-          employment, launch successful businesses, and make a difference in
-          their communities. We are proud to have played a role in their
-          success, and we are committed to continuing to support them and others
-          like them in the future. We measure our impact not just in terms of
-          the number of people we reach, but in the quality of the training and
-          support we provide. We aim to provide a transformative experience that
-          equips young people with the knowledge and skills they need to thrive,
-          and that inspires them to pursue their dreams and make a positive
-          impact in the world. Our ultimate goal is to help create a more
-          equitable and inclusive world, where everyone has the opportunity to
-          succeed. We believe that by investing in the potential of young
-          people, we can help create a brighter future for all.
+          
+
+Nirman, a stalwart civil society organization entrenched in Bihar since 1995, stands as a beacon of change for the marginalized strata of society. With a robust network comprising 22 civil society organizations, Nirman diligently strives towards elevating Human Development Index indicators, particularly in Education, Health, and Social Status. Over its 25-year journey, Nirman has etched a distinctive niche through its relentless efforts in the grassroots arena.
+<br />
+At the heart of Nirman's philosophy lies a holistic approach towards community development. By addressing not only Education and Health but also delving into Gender issues, Nirman ensures a comprehensive upliftment strategy. Acting as a conduit between the state government and beneficiaries, Nirman facilitates the seamless execution of various welfare programs tailored for the marginalized populace.
+<br />
+
+Central to Nirman's ethos is the cultivation of youth and civil society leadership. Through meticulously crafted networks spanning from District to Panchayat levels, Nirman fosters an environment ripe for dynamic interventions in the development sector. Emphasizing inclusivity, each network boasts a diverse composition, including female representation at its core.
+<br />
+
+Nirman's journey is marked by advocacy and action. From grassroots mobilization to advocacy at governmental and media forums, Nirman champions the cause of social justice and equitable access to government schemes. Recognizing the pivotal role of community participation, Nirman endeavors to break barriers of caste, creed, religion, and gender to usher in sustainable development.
+<br />
+
+In regions like Patna, Vaishali, Arwal, and Nalanda, Nirman's impact reverberates profoundly. With a steadfast focus on Education, Livelihood, Gender equality, and Health, Nirman continues to spearhead transformative initiatives for the underprivileged. Anchored by expertise in adolescent education, skill training, and social mobilization, Nirman remains steadfast in its commitment to nurturing empowered communities and fostering sustainable progress.
         </Typography>
       </Box>
       <Box></Box>

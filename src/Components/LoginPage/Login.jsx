@@ -10,7 +10,8 @@ export default function LoginPage() {
         {email:"sumitsaurabh@gmail.com",password:"sumitsaurabh123"},
         {email:"ishanyadav13290@gmail.com",password:"ishanyadav13290@gmail.com"},
         {email:"raghbirsingh9101@gmail.com",password:"raghbirsingh9101@gmail.com"},
-        {email:"yashwantsharma@gmail.com",password:"yashwantsharma123"}
+        {email:"yashwantsharma@gmail.com",password:"yashwantsharma123"},
+        {email:"nirman.bihar02@gmail.com",password:"nirman.bihar02@gmail.com"}
     ]
     let emailRef = useRef(null)
     let passRef = useRef(null)

@@ -40,26 +40,16 @@ export default function Certificates() {
           fontWeight={"bold"}
           fontFamily={'"Roboto","Helvetica","Arial",sans-serif'}
         >
-          At Nirman, our mission is to empower young people with the
-          skills they need to succeed in the rapidly changing digital economy.
-          We believe that everyone deserves access to high-quality education and
-          training opportunities, and we are committed to making this a reality
-          for young people across the globe. To achieve this mission, we focus
-          on providing training and support in two key areas: data science and
-          blockchain technology. We recognize that these fields are becoming
-          increasingly important in the modern world, and that there is a
-          growing demand for skilled professionals who can leverage these tools
-          to drive innovation and create value. Through our training programs,
-          we aim to equip young people with the knowledge and skills they need
-          to succeed in these fields. We provide hands-on, practical training
-          that emphasizes real-world applications and problem-solving skills.
-          Our programs are designed to be accessible to anyone, regardless of
-          their background or prior experience. We are committed to making a
-          positive impact in the world, and we believe that empowering young
-          people with the skills they need to succeed in data science and
-          blockchain technology is one of the most effective ways to do so. By
-          providing access to high-quality training and support, we are helping
-          to build a brighter future for all.
+          Our mission is to transform the marginalized community member’s economic and social status through participatory based approach and practices which are sustainable. By focusing on empowering women, improving their health, education status. Income generation and improved social status. 
+          
+        </Typography>
+        <Typography
+          fontWeight={"bold"}
+          fontFamily={'"Roboto","Helvetica","Arial",sans-serif'}
+        >
+Attainment of egalitarian society by improving the social and economic status of marginalized women & children through sustainable development program.
+
+To establish an egalitarian society where there will be no discrimination among the people on the basis of Caste,Gender, Religion etc. Our organization gives priority to under privileged and marginalized peoples.
         </Typography>
       </Box>
       <Box></Box>

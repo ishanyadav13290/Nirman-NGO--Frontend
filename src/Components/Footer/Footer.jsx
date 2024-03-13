@@ -8,7 +8,8 @@ import axios from "axios";
 import { useRef } from "react";
 import { motion } from "framer-motion";
 import { useInView } from "framer-motion";
-import bgImg from "./bg.png";
+import bgImg from "./bg2.jpg";
+// import bgImg from "./bg.png";
 import { useContext } from "react";
 import { Context } from "../../ContextApi";
 export default function Footer() {
@@ -76,13 +77,15 @@ export default function Footer() {
                   fontWeight={"700"}
                   fontSize={"15px"}
                 >
-                  Address
+                  Administrative office :-	B4, Khatri Commertial Market, Mahendru, Patna- 800 006 ( Bihar)
+              <br/>
+Reg. Office:-	Murgaon, Hamam Lane, Patna- 800 008 ( Bihar)
                 </Typography>
                 <Typography color={"white"} fontSize={"14px"}>
                 
                 </Typography>
                 <Typography color={"white"} fontSize={"14px"}>
-                phone numbers
+                07654997233, 09430829044
                 </Typography>
               </Box>
               <Box
@@ -224,12 +227,15 @@ export default function Footer() {
               gap={"10px"}
               flexDirection={"column"}
             >
-              <Typography fontSize={"13px"}>email</Typography>
-              <Typography fontSize={"13px"}>contact</Typography>
+              <Typography fontSize={"13px"}>csr@nirman.org.in
+              <br/>info@nirman.org.in</Typography>
+              <Typography fontSize={"13px"}>7654997233, 9430829044, 9031165593</Typography>
             </Box>
             <Box textAlign={"center"}>
               <Typography fontWeight={"bold"} color={"gray"}>
-              address
+              Administrative office :-	B4, Khatri Commertial Market, Mahendru, Patna- 800 006 ( Bihar)
+              <br/>
+Reg. Office:-	Murgaon, Hamam Lane, Patna- 800 008 ( Bihar)
               </Typography>
             </Box>
           </Box>
