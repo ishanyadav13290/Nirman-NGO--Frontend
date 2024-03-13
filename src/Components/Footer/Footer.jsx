@@ -85,7 +85,7 @@ Reg. Office:-	Murgaon, Hamam Lane, Patna- 800 008 ( Bihar)
                 
                 </Typography>
                 <Typography color={"white"} fontSize={"14px"}>
-                07654997233, 09430829044
+                07654997233, 09430829044, 09031165593
                 </Typography>
               </Box>
               <Box
