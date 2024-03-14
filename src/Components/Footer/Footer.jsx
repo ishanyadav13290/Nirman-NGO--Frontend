@@ -85,7 +85,7 @@ Reg. Office:-	Murgaon, Hamam Lane, Patna- 800 008 ( Bihar)
                 
                 </Typography>
                 <Typography color={"white"} fontSize={"14px"}>
-                07654997233, 09430829044, 09031165593
+                09430829044, 09031165593
                 </Typography>
               </Box>
               <Box
@@ -229,7 +229,7 @@ Reg. Office:-	Murgaon, Hamam Lane, Patna- 800 008 ( Bihar)
             >
               <Typography fontSize={"13px"}>csr@nirman.org.in
               <br/>info@nirman.org.in</Typography>
-              <Typography fontSize={"13px"}>7654997233, 9430829044, 9031165593</Typography>
+              <Typography fontSize={"13px"}>9430829044, 9031165593</Typography>
             </Box>
             <Box textAlign={"center"}>
               <Typography fontWeight={"bold"} color={"gray"}>
